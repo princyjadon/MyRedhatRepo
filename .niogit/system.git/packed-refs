@@ -1,0 +1,8 @@
+# pack-refs with: peeled
+cbf3017180672217b612813e1044bc52447a5488 refs/heads/admin-uf-user
+6d482342172f6ee97ad0af8a8909f9bee3f5af87 refs/heads/brmsAdmin-uf-user
+9d734d958ea3368898f9586446737bd75b10917b refs/heads/locks
+1f170bf60ad4de6c534a5d1c5fd876c6f9539350 refs/heads/mailman-uf-user
+b6f4d8e2b5f2dade90c0d4537f31247472adca4c refs/heads/master
+a7e041f2202d4c27f4748130ba58de48300c34be refs/heads/social
+7a9c3ddd97d102ccbd7a502f4ad0c0228ed3b12f refs/heads/system-uf-user
